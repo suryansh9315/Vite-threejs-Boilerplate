@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body{
+  overflow-x: hidden;
+  /* background: rgb(20, 20, 20); */
+}
+canvas{
+  position: fixed;
+  top: 0;
+  left: 0;
+  /* z-index: -1; */
+}
